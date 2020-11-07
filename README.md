@@ -27,9 +27,9 @@ The goal of this application is to have a quick, easy and lightweight method of 
 
 ## Images
 <p align="center">
-  <img src="https://mycryptomonitor.com/screenshots/main2.png><br/>
-  <img src="https://mycryptomonitor.com/screenshots/tut_alerts.png><br/>
-  <img src="https://mycryptomonitor.com/screenshots/tut_main.png><br/>
-  <img src="https://mycryptomonitor.com/screenshots/tut_portfolios.png><br/>
-  <img src="https://mycryptomonitor.com/screenshots/tut_theme.png>
+  <img src="https://mycryptomonitor.com/screenshots/main2.png"><br/>
+  <img src="https://mycryptomonitor.com/screenshots/tut_alerts.png"><br/>
+  <img src="https://mycryptomonitor.com/screenshots/tut_main.png"><br/>
+  <img src="https://mycryptomonitor.com/screenshots/tut_portfolios.png"><br/>
+  <img src="https://mycryptomonitor.com/screenshots/tut_theme.png">
 </p>
